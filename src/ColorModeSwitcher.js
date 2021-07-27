@@ -14,7 +14,7 @@ export const ColorModeSwitcher = ({ toggleColorFlag, ...rest }) => {
             return;
         }
         toggleColorMode()
-    }, [])  // eslint-disable-line
+    }, [toggleColorFlag])  // eslint-disable-line
 
     return (
         <IconButton
