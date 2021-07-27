@@ -13,4 +13,8 @@ A basic FAQ bot built to test React's [ChakraUI](https://chakra-ui.com/) Library
 ## Running this app on your machine:
 1. Make sure you have [Node.js](https://nodejs.org/en/) installed!
 2. Run ```npm i``` to install all dependencies.
-3. Run ```npm start``` or ```yarn start``` to run the app.
+3. Generate your API Token from [alan.app](alan.app).
+4. Create an empty project, and inside the project, create two scripts ```faq_bot``` and ```color_mode```.
+5. Copy paste the contents of [alan_faq.txt](google.com) in the ```faq_bot```, and [color_mode.txt](google.com) in the ```color_mode``` scripts.
+6. Create a ```.env``` file, and inside the file, put the Alan API Token in the format ```REACT_APP_API_TOKEN=<your-api-token-here>```
+7. Run ```npm start``` or ```yarn start``` to run the app.
