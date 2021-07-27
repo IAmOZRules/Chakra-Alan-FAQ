@@ -4,7 +4,7 @@
 
 A basic FAQ bot built to test React's [ChakraUI](https://chakra-ui.com/) Library and [Alan.AI](alan.app).
 
-Find a hosted version of this app [here](https://chakra-alan-faq.netlify.app/)
+Find a hosted version of this app [HERE](https://chakra-alan-faq.netlify.app/).
 
 ## How to use this app:
 - Click on the Voice Assistant button, and read aloud any FAQ question.
