@@ -7,8 +7,6 @@ import Faq from './Faq';
 import Navbar from './Navbar';
 
 const App = () => {
-    console.log(process.env.REACT_APP_API_TOKEN);
-    
     const alanBtnInstance = useRef(null);
     const [index, setIndex] = useState(null);
     const [toggleColorFlag, setToggleColorFlag] = useState(false);
